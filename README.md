@@ -1,3 +1,4 @@
+- [Informix Servers 12.10](https://www.ibm.com/docs/en/informix-servers/12.10?topic=overview-tutorials-examples) #informix#db
 - [深入架构原理与实践 | 深入高可用系统原理与设计](https://www.thebyte.com.cn/) #云原生#容器
 - [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 - [MyBatis 3 | 配置 – mybatis](https://mybatis.org/mybatis-3/zh_CN/configuration.html)
