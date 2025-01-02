@@ -25,7 +25,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         repository: siriushb/KnowledgeSea-Summary
-        path: KnowledgeSea-Summary
+        path: bookmark-summary
         token: ${{ secrets.PAT }}
 
     - name: Set up Python
