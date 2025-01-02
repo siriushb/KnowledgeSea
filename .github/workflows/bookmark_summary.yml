@@ -21,11 +21,11 @@ jobs:
       with:
         path: KnowledgeSea
 
-    - name: Checkout bookmark-summary
+    - name: Checkout KnowledgeSea-Summary
       uses: actions/checkout@v2
       with:
         repository: siriushb/KnowledgeSea-Summary
-        path: bookmark-summary
+        path: KnowledgeSea-Summary
         token: ${{ secrets.PAT }}
 
     - name: Set up Python
@@ -44,11 +44,11 @@ jobs:
         OPENAI_API_MODEL: ${{ secrets.OPENAI_API_MODEL }}
         OPENAI_API_ENDPOINT: ${{ secrets.OPENAI_API_ENDPOINT }}
       run: |
-        python bookmark-summary/process_changes.py
+        python KnowledgeSea-Summary/process_changes.py
 
-    - name: Commit changes to bookmark-summary
+    - name: Commit changes to KnowledgeSea-Summary
       run: |
-        cd bookmark-summary
+        cd KnowledgeSea-Summary
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
