@@ -24,8 +24,8 @@ jobs:
     - name: Checkout bookmark-summary
       uses: actions/checkout@v2
       with:
-        repository: siriushb/KnowledgeSea-summary
-        path: KnowledgeSea-summary
+        repository: siriushb/KnowledgeSea-Summary
+        path: KnowledgeSea-Summary
         token: ${{ secrets.PAT }}
 
     - name: Set up Python
