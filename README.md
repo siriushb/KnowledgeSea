@@ -1,3 +1,4 @@
+- [阮一峰的网络日志](https://www.ruanyifeng.com/blog/) #技术分享
 - [面试指南之算法面试心得](https://javayhu.com/2016-nian-mian-shi-zhi-nan-zhi-suan-fa-mian-shi-xin-de/) #interview#算法
 - [Informix Servers 12.10](https://www.ibm.com/docs/en/informix-servers/12.10?topic=overview-tutorials-examples) #informix#db
 - [深入架构原理与实践 | 深入高可用系统原理与设计](https://www.thebyte.com.cn/) #云原生#容器
