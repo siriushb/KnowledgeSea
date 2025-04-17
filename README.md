@@ -1,3 +1,4 @@
+- [欢迎使用 Dify | Dify](https://docs.dify.ai/zh-hans) #defi
 - [vxiaozhi/vocabulary-book-by-deepseek](https://github.com/vxiaozhi/vocabulary-book-by-deepseek) #四级词汇#英语#english#cet
 - [Database Installation Guide](https://docs.oracle.com/en/database/oracle//oracle-database/19/ntdbi/creating-a-database-after-installation.html) #oracle#install#preparation#requirements
 - [huihui_ai/deepseek-r1-abliterated:7b](https://ollama.com/huihui_ai/deepseek-r1-abliterated:7b) #ollama#deepseek-r1-abliterated
