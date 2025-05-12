@@ -1,3 +1,4 @@
+- [GitHub - 2977094657/BilibiliHistoryFetcher: 获取b站历史记录，批量下载视频，一键下载用户投稿视频，收藏夹所有视频，生成详细的年度总结，自动化任务，下面链接是对应前端](https://github.com/2977094657/BilibiliHistoryFetcher)
 - [欢迎使用 Dify | Dify](https://docs.dify.ai/zh-hans) #defi
 - [vxiaozhi/vocabulary-book-by-deepseek](https://github.com/vxiaozhi/vocabulary-book-by-deepseek) #四级词汇#英语#english#cet
 - [Database Installation Guide](https://docs.oracle.com/en/database/oracle//oracle-database/19/ntdbi/creating-a-database-after-installation.html) #oracle#install#preparation#requirements
